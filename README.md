@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an engineer turned software developer, slowly transitioning my skills from industrial programming into full-stack web development!
+ 
 <!--
 **calebkw91/calebkw91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
