@@ -3,7 +3,9 @@
 I am an engineer turned software developer, slowly transitioning my skills from industrial programming into full-stack web development!
 
 📫 How to reach me: walke1291@gmail.com
+
 😄 Pronouns: He/him
+
 🌱 I’m currently learning full-stack web development through the University of Minnesota
  
 <!--
