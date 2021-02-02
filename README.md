@@ -6,6 +6,8 @@ I am an engineer turned software developer, slowly transitioning my skills from 
 
 🏠 View my portfolio here -> [Link](https://calebkw91.github.io/ResponsivePortfolio/)
 
+🏢 LinkedIn -> [Link](https://www.linkedin.com/in/caleb-walker-189a4988/)
+
 😄 Pronouns: He/him
 
 🌱 I’m currently learning full-stack web development through the University of Minnesota
