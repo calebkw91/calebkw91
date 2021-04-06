@@ -9,8 +9,6 @@ I am an engineer turned software developer, slowly transitioning my skills from 
 🏢 LinkedIn -> [Link](https://www.linkedin.com/in/caleb-walker-189a4988/)
 
 😄 Pronouns: He/him
-
-🌱 I’m currently learning full-stack web development through the University of Minnesota
  
 <!--
 **calebkw91/calebkw91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
