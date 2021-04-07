@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an engineer turned software developer, slowly transitioning my skills from industrial programming into full-stack web development!
+I am a cross functional engineer with a degree in Electrical Engineering, experience in industrial automation, and recent exposure to full-stack development. My unique background allows me to view problems with a new perspective and contribute to a team on many different levels.
 
 📫 How to reach me: walke1291@gmail.com
 
